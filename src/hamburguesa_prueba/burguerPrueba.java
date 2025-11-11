@@ -31,7 +31,7 @@ public class burguerPrueba {
 	public static void main(String[] args) {
 		
 		//variables que nos dan
-		
+		//prueba github
 				String[] aIngredientes = { "carne , tomate, picante, pimiento", "carne, lechuga, bacon, alioli", "carne,  cebolla, cheddar, lechuga, tomate, mahonesa", "carne, bacon, cebolla,cheddar, lechuga,tomate, mayonesa,barbacoa"};
 				String[] aNombre = { "Mexicano", "Alioli", "CheeseBurger", "Barbacoa"};
 				double[] aPrecio = { 8.50, 11, 12.50, 14};
