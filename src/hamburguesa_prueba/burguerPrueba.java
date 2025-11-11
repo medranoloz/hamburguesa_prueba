@@ -32,6 +32,7 @@ public class burguerPrueba {
 		
 		//variables que nos dan
 		//prueba github
+		//otra rueba
 				String[] aIngredientes = { "carne , tomate, picante, pimiento", "carne, lechuga, bacon, alioli", "carne,  cebolla, cheddar, lechuga, tomate, mahonesa", "carne, bacon, cebolla,cheddar, lechuga,tomate, mayonesa,barbacoa"};
 				String[] aNombre = { "Mexicano", "Alioli", "CheeseBurger", "Barbacoa"};
 				double[] aPrecio = { 8.50, 11, 12.50, 14};
